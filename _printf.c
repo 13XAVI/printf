@@ -3,6 +3,7 @@
  * _printf - check code
  * @format: pointer
  * Return: lenght
+ * alx parterners
  */
 
 int _printf(const char *format, ...)
